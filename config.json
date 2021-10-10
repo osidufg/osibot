@@ -1,7 +1,7 @@
 {
     "PREFIX": ";",
-    "TOKEN": "ODgwMTA2NDk4OTYzOTYzOTU1.YSZdDA.YFwKJ6PlnfQX6ePCkTC-EqGzdAI",
-    "YOUTUBE_API_KEY": "AIzaSyDFd_4D04kW5r7X7SD_1f37qrlzpaaKZ90",
+    "TOKEN": "<your token here>",
+    "YOUTUBE_API_KEY": "<your token here>",
     "STAY_TIME": 180,
     "VOLUME": 80,
     "PRUNING": false
