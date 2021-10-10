@@ -1,0 +1,2 @@
+# osibot
+A Discord Bot
