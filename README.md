@@ -2,7 +2,7 @@
 A Discord Bot
 
 Features:
+-play stuff
+-idk respond to your silly commands i guess
 
-play stuff
-
-idk respond to your silly commands?
+created in JS
